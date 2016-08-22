@@ -1,0 +1,17 @@
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+.kdev4/
+Content/StarterContent/
+
+*.sln
+*.SUO
+*.workspace
+*.pri
+*.pro
+*.kdev4
+Makefile
+CMakeLists.txt
